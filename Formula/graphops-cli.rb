@@ -7,23 +7,23 @@ class GraphopsCli < Formula
 
   on_macos do
     on_arm do
-      url "https://registry.npmjs.org/@graphops/cli-darwin-arm64/-/cli-darwin-arm64-0.4.1.tgz"
-      sha256 "ba5d656342a51b4234aabf490b3a2620e4554487b6e4c42389d1ada2fb1f4dae"
+      url "https://registry.npmjs.org/@graphops/cli-darwin-arm64/-/cli-darwin-arm64-0.4.2.tgz"
+      sha256 "5b23905ccd1244a52d5566766c8cd897bf874f8fc3a3d8e8c14b35d086c06ad9"
     end
     on_intel do
-      url "https://registry.npmjs.org/@graphops/cli-darwin-x64/-/cli-darwin-x64-0.4.1.tgz"
-      sha256 "11808dabbc3bb8f17ec17a8ef7687509ce102a2d641724b67af451ca691abe3b"
+      url "https://registry.npmjs.org/@graphops/cli-darwin-x64/-/cli-darwin-x64-0.4.2.tgz"
+      sha256 "2f33d2dfc7d800dffc7af5cfdbefdf65b93d2ba21dae892b42f9bb7413d35bf2"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://registry.npmjs.org/@graphops/cli-linux-arm64/-/cli-linux-arm64-0.4.1.tgz"
-      sha256 "a44cc29e642b1b952230ac8a5046529700c1ecfe6ef6e23fcf8d1e633b251fe2"
+      url "https://registry.npmjs.org/@graphops/cli-linux-arm64/-/cli-linux-arm64-0.4.2.tgz"
+      sha256 "c08e767d4f99ecaf51e0a034cb6ad9c4689f80c272eca885e4080f2aa6bc684a"
     end
     on_intel do
-      url "https://registry.npmjs.org/@graphops/cli-linux-x64/-/cli-linux-x64-0.4.1.tgz"
-      sha256 "9f9d1e9119efe29d7eb35cbca5b399a609e5a9b8693103d00bd3d0d61479efab"
+      url "https://registry.npmjs.org/@graphops/cli-linux-x64/-/cli-linux-x64-0.4.2.tgz"
+      sha256 "e6d37d9a65b3ad1f50aee4b39d44889aeb053677df35b8dd31f7d824a430fa0e"
     end
   end
 
